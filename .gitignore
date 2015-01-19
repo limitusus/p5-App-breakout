@@ -1,0 +1,6 @@
+/App-breakout-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
