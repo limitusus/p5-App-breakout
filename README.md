@@ -1,14 +1,19 @@
 # NAME
 
-App::breakout - Blah blah blah
+App::breakout - a command line tool to breakout from chroot jail
 
 # SYNOPSIS
 
-    use App::breakout;
+    breakout /bin/bash
 
 # DESCRIPTION
 
-App::breakout is
+App::breakout provides a command line application _breakout_,
+that executes the given command after breaking out the chroot jail
+with root permission.
+
+This application is for __test only__. It does not exploit any OS vulnerability.
+This tool can be used just by root user.
 
 # AUTHOR
 

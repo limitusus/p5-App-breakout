@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "a command line tool to breakout from chroot jail",
    "author" : [
       "Tomoya KABE <limitusus@cpan.org>"
    ],
@@ -57,7 +57,7 @@
          "web" : "https://github.com/limitusus/p5-App-breakout"
       }
    },
-   "version" : "0.02",
+   "version" : "0.03",
    "x_contributors" : [
       "limitusus <limit.usus@gmail.com>"
    ]
