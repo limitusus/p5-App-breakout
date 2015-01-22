@@ -11,15 +11,20 @@ __END__
 
 =head1 NAME
 
-App::breakout - Blah blah blah
+App::breakout - a command line tool to breakout from chroot jail
 
 =head1 SYNOPSIS
 
-  use App::breakout;
+  breakout /bin/bash
 
 =head1 DESCRIPTION
 
-App::breakout is
+App::breakout provides a command line application I<breakout>,
+that executes the given command after breaking out the chroot jail
+with root permission.
+
+This application is for B<test only>. It does not exploit any OS vulnerability.
+This tool can be used just by root user.
 
 =head1 AUTHOR
 
