@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/limitusus/p5-App-breakout.svg)](https://travis-ci.org/limitusus/p5-App-breakout)
+
 # NAME
 
 App::breakout - a command line tool to breakout from chroot jail
